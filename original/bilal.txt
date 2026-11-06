@@ -1,0 +1,13 @@
+1. This is a review of the manuscript "Projectile motion of a marble shooter" by Bilal et al submitted as a research article to JS&E. I recommend major revisions.
+
+2. The title needs to be more informative as to the actual findings. The abstract should keep top level details but fine level details can and should be moved to the methods and materials. Words like "optimum" are meaningless unless defined.
+
+3. The purpose of the work was not to... measure... using PASCO ME-6825 and 16 mm stainless steel marble; it was to examine something about projectile motion. This phrasing stood out when reading parts of the intro and other places where it was repeated.
+
+4. Conversions between in and m are standard and do not need to be provided here.It is unacceptable that no explanation of spread of data can be obtained - authors should not have just recorded means. The MS should be rejected because of this. 
+
+5. Results - does not need to repeat information from the introduction; also some parts belong in the discusison. Results does need to specifically give Table 1 and Figure 1 and any important statistics - it is unclear why the authors do not give s.d. nor do they give a point at 90 deg. The authors fit to some random "sinusoidal regression" and focus on R^2 but it is completely unclear why they do this because the form of the equation developed in the introduction are completely different. A "sinusoidal regression" here is irrelevant?
+
+6. Discussion touched on Tartaglia and Galileo but some items are not explained prior - for example the historical range table is not mentioned until ehre, and the in flight trajectory is not shown anywhere so how is it being discussed in the discussion? It makes it seem like the discussion was AI generated?
+
+7. The references are not good. One is a textbook. Of the others, there are no peer reviewed joruanl articles; and they cite their own assignment and their own data? This is not acceptable.
